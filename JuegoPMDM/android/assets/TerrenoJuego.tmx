@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" tiledversion="1.1.2" orientation="orthogonal" renderorder="right-down" width="60" height="60" tilewidth="32" tileheight="32" infinite="0" nextobjectid="1">
+ <tileset firstgid="1" source="Tileset Tutorial.tsx"/>
+ <layer name="Suelo" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEOwiAQheGudONlPVCv6dq4MFFCyUBhHlP+Ji8mJTPlc9Duj23bF8vr9p/cWnrP0ueo50zWUck9+3m352j/tfVe3pwZL168cb2lvVv/b1fzluzK95HFezbW38BK3ivN1xK8ePHijeL1dKuNo62/vdVG7/OsduLFixdvNPNqXi+z2njWWlurdvaYbU292ul5lqN7W2rVTu8Zq40jvKVeaqPFerT+vZ9+Rphvr/ld0ds626jetKamh9rZOt/VznM0X+/vRr2n2nyulc4zXrx48eLFO0Pw4sWLN5LXes3swEsIIbHzBp1Rv18=
+  </data>
+ </layer>
+ <layer name="Decoracion" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmjkOwjAQRUdAoACJmvUeLA3HYL0L4kQsF+AYrHdgETUj0YGNEzvgTPKf9JufRPLLyIUDRNnlUVRHAoOC7xUkE9X8jgHRySHn4P8eLjT5HbQc0va0B5ZVohVnzdlUwz8n1ffCjlfOjXPPgG+H0+X0OP0Iz0n1tWXC650qonJT3Tfz4LvM6XvdNRPvc0/SHHVOl9wrNkj0dSHJvrYz/Mb7vvaxT6UyL8fTS2GrWX/UXgrwtevj5Jdn3yT6mvj2PcD0riT6ugBfu14K8LXrpQBfu14K8LXrpZCvEC3KnylF7KMGgCyg+63QFKnAF77w9b3qeMmab9rB7AAAAAAAAABS2QVE+xA5CPs/to4an9nqIdJIydkOvvCFr1yG7DEKkXFKfIGZJ/ds0TU=
+  </data>
+ </layer>
+ <layer name="Decocarion 2" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztmF9OAjEQh8cECQGzvPjiMRQFn416B4+hgnIBbwbewWOIf8KjQyLBXbdudzvtdOvvS34hKQnM12lnA0SgjVx0tCsAAAAAAAAAACDJ04F2BbKk5gPawWtGtCrkjfOeaVfmh+Mh0UkhI87pULsyP8TkG2LG+fSNcUbH1N8QaPhq9h39hW9KwLddvnVnn5ZvkxktMdelfSVq8vm8avt5rgt80/a9Za+7Qu45U0++rnczxt8gTUjFIzYODefWtG4DetUc7F0e2/34yIg+LbJO5H/KM76fE4ucCz6XNM/mxnf87WR6lfa1Zd39nWlvl7L3q4jRt8xjmxntIuE7FvSte27/8kypv1WOkoT0Let3CMefaPY3pOeWGXs8VOSRMxf21XDVAq5p4uq66BMtOc9991pe3D8iR3EWS/S1MyDa53QH7vWZfCX2QeoMX7LnFedawPdor966LbHe1xuDl2ndhlhdffCfXDfkXHvhvvcLbuHJgA==
+  </data>
+ </layer>
+ <layer name="Obstaculos" width="60" height="60" locked="1">
+  <data encoding="base64" compression="zlib">
+   eJztmUtOwzAQhp2mj0gVXSHBBq6AkLgAD3EK4C4FxB44AL0Cl0DisYcFElyhUhcssdVaTV3b40eceBr/0shux87Mp4ltuZ31CZnVZGVNu/Ym6rljZ0wsj6NBeJPxHvbMTcU7pXaezY31T2l7tuif0PZ40S/z1iEZ796QkP2hWaviZbrL5sZ0Q9vbRf+atuNsdWyTvJeU42po1up4TRQD7yd9z78G+nl8jIp33INjv2Ry3gNN7NeckDdqOX1+l1qP2jv9/JGr55SfJ+PdKQjZLfS58jE+vP1I1u92MTed+BgfXjYmBl7deWN6HnWA9cDExrjwXmSrnyfmU9fiQOeN7LwSJTtfRX95nCyPUILiiDwyPlHTztJ0vHyMSR5VKVScJ7q2J4Wal/tleaj2Z92+bTovFO8PZfktlvUri33H/aHzEBW6vqZ+7Lxi/SA/dt5UX70f+37lUl+X+3pV833lUl/TO7tMrvf9qpTWr96PnTfVV+/Hzmsrnsf9iJAHhT2O9M8wmRsb76bEgZR4cceBlHhxx4GU9mfccSAlXtxxICVe3HEgpf0ZdxxIbeTF/HudrbD/XmerNr7PmxQHkpiH7X8Mpt/Hyos9DiTMvH/9dYP8GHllHJvIq+N05Y1xv7JhhBR7fatgrCKPOuJUyemTRx1xQrC65FFHnFCssjya3q9sWfMtO39M98GQdeXyvc/53ifrZLWR7v7rqyZYvwu4H2K+L6vt+m1Ssb3DIdUmVqYVVsM1U4X+AYNa6ik=
+  </data>
+ </layer>
+ <layer name="Profundidad" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt2b0NwjAQhuFDQYiCRAJaClYCFmAdfkZgB4YIDAC07JAVcEMBkmNi+3AI7yOdFDu66Jp8zYkA3XQctPt7sVU1820yka2psi9yMnU2tTPnfeb3PbTP/e08TzHEF816r+d1kingy5anrpz17UvNlqeunPXtAxAPeVV/H9oHAD4uucjVUrdcrzeVcSEysdS00OtNZWHmWlpq5Zg5pBdAOPKZfNboBRCOfCafNXoBAJ9puiv41d3CU9NdAbsFoD3Iq7j3APSQV3HvYytHYe+BLjgM3c+a/b74f4H/8QCd+XOI
+  </data>
+ </layer>
+</map>
